@@ -1,0 +1,1 @@
+int armstrong = 0;
