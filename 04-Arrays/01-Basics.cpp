@@ -11,7 +11,7 @@ int main()
 
     // FOREACH LOOP
     for (auto x : A)
-        cout << x<<" ";
+        cout << x<<" "  ;
 
     return 0;
 }

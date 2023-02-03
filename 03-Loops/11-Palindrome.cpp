@@ -17,8 +17,10 @@ int main()
     if (copyNumber == reverse)
     {
         cout << copyNumber << " is a Palindrome" << endl;
-    }else{
-        cout<<copyNumber<<" is not a palindrome"<<endl;
+    }
+    else
+    {
+        cout << copyNumber << " is not a palindrome" << endl;
     }
     return 0;
 }

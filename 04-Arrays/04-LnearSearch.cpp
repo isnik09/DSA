@@ -15,7 +15,7 @@ int main()
     }
 
     cout << "What number you want to find? " << endl;
-    cin>>toSearch;
+    cin >> toSearch;
     for (int x : A)
     {
         if (toSearch == x)

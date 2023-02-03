@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 
-    int A[] = {1, 2, 3, 4, 5};
+    int A[] = {11, 22, 53, 34, 75};
     int sum = 0;
     for (int x : A)
     {
