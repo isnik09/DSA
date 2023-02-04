@@ -10,7 +10,7 @@ int main()
     {
         for (int j = 0; j < n; j++)
         {
-            if (i + j > (n - 1))
+            if (i + j >= (n - 1))
             {
                 cout << "*";
             }
