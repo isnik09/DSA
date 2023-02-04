@@ -5,7 +5,7 @@ int main()
 
     int length, sum;
     float average;
-    int element;
+    int element; 
     cout << "Enter length of an array: " << endl;
     cin >> length;
     int A[length];
@@ -13,7 +13,7 @@ int main()
     {
         cout << "Enter arrays: " << endl;
         cin >> element;
-        A[i] = element;
+        A[i]=element;
     }
     for (int x : A)
     {
