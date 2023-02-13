@@ -9,6 +9,5 @@ int main()
     return 0;
 }
 
-
-// IT WILL PRINT 20 and 20 as b 
+// IT WILL PRINT 20 and 20 as b
 // points to x and it's value changed...
