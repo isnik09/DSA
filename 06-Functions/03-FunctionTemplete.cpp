@@ -4,18 +4,7 @@ using namespace std;
 template <class T>
 T max(int a, int b)
 {
-    if (a > b)
-    {
-        return a;
-    }
-    else if (a < b)
-    {
-        return b;
-    }
-    else
-    {
-        return "Both are same";
-    }
+    return a > b ? a : b;
 }
 
 int main()
